@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"crypto/x509"
 	"errors"
+	"fmt"
 
 	"github.com/github/ietf-cms/protocol"
 )
